@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{2F563683-1976-82CB-334F-D0D7683A2B14}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/exit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="16" Column="51" IsPinned="True" />
+      <File FileName="Assets/Scripts/GameManagerScript.cs" />
+      <File FileName="Assets/Scripts/Dialogue.cs" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" />
+      <File FileName="Assets/Scripts/EnemyPatrol.cs" />
+      <File FileName="Assets/Scripts/MeleeEnemy.cs" />
+      <File FileName="Assets/Scripts/SpikeDamage.cs" />
+      <File FileName="Assets/Scripts/Projectile.cs" />
+      <File FileName="Assets/Scripts/Underground.cs" />
+      <File FileName="Assets/Scripts/Portal.cs" />
+      <File FileName="Assets/Scripts/Boss_Health.cs" />
+      <File FileName="Assets/Scripts/PlayerAttack.cs" />
+      <File FileName="Assets/Scripts/EnemyHealth.cs" />
+      <File FileName="Assets/Scripts/ItemCollector.cs" />
+      <File FileName="Assets/Scripts/Boss_Attack.cs" />
+      <File FileName="Assets/Scripts/SpikeHeadLvl5.cs" />
+      <File FileName="Assets/Scripts/Boss.cs" />
+      <File FileName="Assets/Scripts/Dialogue2.cs" />
+      <File FileName="Assets/Scripts/exit.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Oneiro" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="characters" expanded="True">
+                <Node name="player" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="exit.cs" selected="True" />
+              </Node>
+              <Node name="TextMesh Pro" expanded="True">
+                <Node name="Shaders" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="321643e4-878a-482e-9869-0ce020d4e626" />
+</Properties>
